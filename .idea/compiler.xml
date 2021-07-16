@@ -13,6 +13,7 @@
         <module name="microservice-eureka-7001" />
         <module name="microservice-consumer-dept-feign" />
         <module name="microservice-eureka-7002" />
+        <module name="mircoservice-provider-dept-hystrix-8001" />
         <module name="mircoservice-provider-dept-8001" />
         <module name="microservice-consumer-dept-80" />
         <module name="microservice-eureka-7003" />
